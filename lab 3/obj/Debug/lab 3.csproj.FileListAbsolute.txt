@@ -1,0 +1,7 @@
+E:\алгоритми та структури данних\lab 3\bin\Debug\lab 3.exe.config
+E:\алгоритми та структури данних\lab 3\bin\Debug\lab 3.exe
+E:\алгоритми та структури данних\lab 3\bin\Debug\lab 3.pdb
+E:\алгоритми та структури данних\lab 3\obj\Debug\lab 3.csproj.AssemblyReference.cache
+E:\алгоритми та структури данних\lab 3\obj\Debug\lab 3.csproj.CoreCompileInputs.cache
+E:\алгоритми та структури данних\lab 3\obj\Debug\lab 3.exe
+E:\алгоритми та структури данних\lab 3\obj\Debug\lab 3.pdb

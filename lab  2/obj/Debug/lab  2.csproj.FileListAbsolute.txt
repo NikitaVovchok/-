@@ -1,0 +1,7 @@
+E:\алгоритми та структури данних\lab  2\bin\Debug\lab  2.exe.config
+E:\алгоритми та структури данних\lab  2\bin\Debug\lab  2.exe
+E:\алгоритми та структури данних\lab  2\bin\Debug\lab  2.pdb
+E:\алгоритми та структури данних\lab  2\obj\Debug\lab  2.csproj.AssemblyReference.cache
+E:\алгоритми та структури данних\lab  2\obj\Debug\lab  2.csproj.CoreCompileInputs.cache
+E:\алгоритми та структури данних\lab  2\obj\Debug\lab  2.exe
+E:\алгоритми та структури данних\lab  2\obj\Debug\lab  2.pdb
